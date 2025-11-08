@@ -1,4 +1,4 @@
-<img width="1024" height="955" alt="overrpong" src="https://github.com/user-attachments/assets/565b8f2a-2c8f-438b-b75f-3d5573032b38" /># PONG-GAME-COMPLETE
+PONG-GAME-COMPLETE
 
 Project Introduction
 
