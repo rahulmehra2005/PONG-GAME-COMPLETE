@@ -83,4 +83,4 @@ Screenshots:
 
 Conclusion
 
-Pong game project is a testament to creative game development, blending nostalgia with innovation. It starts as a classic but evolves into a feature-packed experience with power-ups, obstacles, and effects that add strategy and excitement. With 11 well-structured files, it's extensible—future updates could add online multiplayer or more events. If you share it (e.g., on GitHub), it could attract players looking for a fresh take on Pong. If you need code snippets, tweaks, or expansions (e.g., more power-ups), let me know! Great work on this project!
+Pong game project is a testament to creative game development, blending nostalgia with innovation. It starts as a classic but evolves into a feature-packed experience with power-ups, obstacles, and effects that add strategy and excitement. With 11 well-structured files, it's extensible—future updates could add online multiplayer or more events. 
