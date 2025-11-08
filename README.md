@@ -1,4 +1,4 @@
-# PONG-GAME-COMPLETE
+<img width="1024" height="955" alt="overrpong" src="https://github.com/user-attachments/assets/565b8f2a-2c8f-438b-b75f-3d5573032b38" /># PONG-GAME-COMPLETE
 
 Project Introduction
 
@@ -23,8 +23,8 @@ Power-Ups:
 
 Randomly spawn every 15-25 seconds, adding unpredictability.
 Enlarge Paddle: Temporarily increases paddle size (50% larger) for 8 seconds, making it easier to hit the ball.
-Invisible Ball: Makes the ball (and its trail) fully invisible for 10 seconds, forcing players to rely on prediction.
-Shield: Protects a player's goal for 10 seconds, bouncing the ball back instead of scoring.
+Invisible Ball: Makes the ball (and its trail) fully invisible for 2 seconds, forcing players to rely on prediction.
+Shield: Protects a player's goal for 5 seconds, bouncing the ball back instead of scoring.
 Dynamic Obstacles:
 
 Red barriers spawn every 20 seconds, acting as environmental hazards. The ball bounces off them, and paddles can "destroy" them on contact, adding a mini-breakout element.
@@ -33,11 +33,14 @@ Visual Effects:
 Ball Trails: Cyan particle trails follow the ball, fading out for a "comet" effect. Trails disappear when the ball is invisible.
 Background Images: Custom images for each screen (e.g., welcome, mode selection, game background) loaded from local files.
 UI Elements: Score displays, countdown timers, and on-screen text for events like "PAUSED".
+
 Audio System:
 
 Theme Song: A looping retro chiptune track plays across screens, managed by a shared audio clip to avoid overlaps.
 Sound Effects: Custom hit sound when the ball strikes a paddle, and a victory sound on game over.
 Audio stops/starts appropriately during navigation (e.g., stops on game start or home button).
+(I HAVE ALSO UPLOADED THE AUDIO FILES WITH THE PROJECT CODE FILES)
+
 User Interface and Navigation:
 
 Screen Flow: Welcome → Mode Selection → Player Name Entry → Game → Game Over (loop back).
@@ -68,6 +71,15 @@ Compile all 11 files in a Java IDE (e.g., Eclipse, IntelliJ).
 Ensure audio/image files are in the specified paths (e.g., "C:\Users\rahul\Downloads\retro-chiptune-adventure-8-bit-video-game-music-318059.wav").
 Run Pong.java to start. Navigate screens, enter names, and play!
 Controls: W/S (Player 1), Up/Down (Player 2), Space/Enter (hit), P (pause).
+
+Screenshots:
+<img width="1919" height="1130" alt="Screenshot 2025-11-08 195424" src="https://github.com/user-attachments/assets/efa5735a-8085-45de-a670-d77c9e295e32" />
+<img width="1919" height="1135" alt="Screenshot 2025-11-08 195438" src="https://github.com/user-attachments/assets/5ceb8c8e-15c1-4a1b-b306-23673ecd055e" />
+<img width="1919" height="1130" alt="Screenshot 2025-11-08 195453" src="https://github.com/user-attachments/assets/cbac4b9f-86d0-4b3f-932a-6bd0fdca46f2" />
+<img width="1910" height="1128" alt="Screenshot 2025-11-08 195543" src="https://github.com/user-attachments/assets/85821892-487e-4c95-8cf3-6d903edb5f10" />
+<img width="1919" height="1136" alt="Screenshot 2025-11-08 195648" src="https://github.com/user-attachments/assets/66ea3128-3ae3-4d19-8053-b29501e30e9f" />
+<img width="1919" height="1135" alt="Screenshot 2025-11-08 195739" src="https://github.com/user-attachments/assets/f87a6efd-c677-4af3-8644-49d3b5a36d30" />
+<img width="1919" height="1132" alt="Screenshot 2025-11-08 195843" src="https://github.com/user-attachments/assets/ce4825e3-9b9a-4f08-830c-4d1021c24634" />
 
 Conclusion
 
